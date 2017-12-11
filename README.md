@@ -6,7 +6,7 @@
  
 El reto consiste en crear una página web responsive tanto para desktop y mobile a gusto propio.  
 
-Fue necesario el aprendizaje sobre **Media Queries**, **Grid Ssitem**, **Viewport** y **Responsive Web Designe** para resolver este reto.
+Fue necesario el aprendizaje sobre **Media Queries**, **Grid Sistem**, **Viewport** y **Responsive Web Designe** para resolver este reto.
 
 ## **Condiciones** 
 
